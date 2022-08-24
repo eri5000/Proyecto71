@@ -1,0 +1,17 @@
+#videos{
+    width:100%;
+    height:500px;
+    border:none;
+}
+.img_ef{
+    width:50%;
+    height:50%;
+    
+}
+body{
+    text-align: center;
+}
+.logros_head{
+font-size:40px;
+border-radius:10px;
+}
